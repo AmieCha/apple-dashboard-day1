@@ -3,6 +3,7 @@ import geopandas as gpd
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
+#hxjshxjshxj
 
 st.set_page_config(page_title=" 사과 재배지 및 경제 지표 대시보드", layout="wide")
 
